@@ -1,0 +1,10 @@
+API LIST
+
+1.adduser.php
+parameters:     name,mobile,addr
+required:       name,mobile,addr
+return values:  username,password,userid
+error codes:    200-successfull,150-error
+-----------------------------------------
+2.listquestion.php
+
